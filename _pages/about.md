@@ -38,7 +38,7 @@ Measurement using Binary Search, Optical Engineering 2017
 - 2nd Prize, National Post-Graduate Mathematical Contest in Modeling, 2015.
  
 
-# 📖 Educations
+# 📖 Experience
 - *2021.03 - now*, 
 
 
