@@ -39,6 +39,10 @@ Measurement using Binary Search, Optical Engineering 2017
  
 
 # 📖 Experience
-- *2021.03 - now*, 
+- *2021.03 - now*, PHD candidate in Computer Science, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
+- *2019.12 - 2021.03*, Research Assistant, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
+- *2018.07 - 2019.10*, Sales Engineer in Wireless & Core Network, Huawei Technologies Co., Ltd.
+- *2015.08 - 2018.04*, Master’s Degree in Control Engineering, School of Automation, Southeast University.
+- *2011.08 - 2015.06*, Bachelor’s Degree in Automation, School of Automation, Southeast University.
 
 
