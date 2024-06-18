@@ -32,14 +32,17 @@ I am currently a Ph.D. candidate in John Hopcroft Center for Computer Science at
 Measurement using Binary Search, Optical Engineering 2017
 
 # 🎖 Honors and Awards
+- President Award for Fighting the Epidemic, Shanghai Jiao Tong University, 2023.
 - 2nd Prize, Open Source Quest Challenge Track, The 5th China Software Open Source Innovation Competition, 2022.
-- Excellent master thesis, Southeast University, 2019.
-- National scholarship for graduate student, Southeast University, 2017.
+- Excellent Master Thesis, Southeast University, 2019.
+- National Scholarship for Graduate Student, Southeast University, 2017.
 - 2nd Prize, National Post-Graduate Mathematical Contest in Modeling, 2015.
- 
+
+ ## Advisor
+ - 3rd Prize，Shanghai Youth Science and Technology Innovation Competition, 2023.
 
 # 📖 Experiences
-- *2021.03 - now*, PHD candidate in Computer Science, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
+- *2021.03 - now*, PHD Candidate in Computer Science, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
 - *2019.12 - 2021.03*, Research Assistant, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
 - *2018.07 - 2019.10*, Sales Engineer in Wireless & Core Network, Huawei Technologies Co., Ltd.
 - *2015.08 - 2018.04*, Master’s Degree in Control Engineering, School of Automation, Southeast University.
