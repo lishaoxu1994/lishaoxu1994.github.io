@@ -38,7 +38,7 @@ Measurement using Binary Search, Optical Engineering 2017
 - 2nd Prize, National Post-Graduate Mathematical Contest in Modeling, 2015.
  
 
-# 📖 Experience
+# 📖 Experiences
 - *2021.03 - now*, PHD candidate in Computer Science, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
 - *2019.12 - 2021.03*, Research Assistant, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
 - *2018.07 - 2019.10*, Sales Engineer in Wireless & Core Network, Huawei Technologies Co., Ltd.
