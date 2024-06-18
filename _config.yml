@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaoxu Li"
-description              : ". "
+description              : "A Ph.D. candidate."
 repository               : "lsx0101/lishaoxu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zYmF_acAAAAJ&hl=zh-CN"
-  email            : 
+  email            : "lishaoxu94@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
