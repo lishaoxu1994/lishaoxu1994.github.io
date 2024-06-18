@@ -38,7 +38,7 @@ Measurement using Binary Search, Optical Engineering 2017
 - National Scholarship for Graduate Student, Southeast University, 2017.
 - 2nd Prize, National Post-Graduate Mathematical Contest in Modeling, 2015.
 
- ## Advisor
+## Advisor
  - 3rd Prize，Shanghai Youth Science and Technology Innovation Competition, 2023.
 
 # 📖 Experiences
