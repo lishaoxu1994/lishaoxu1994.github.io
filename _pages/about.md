@@ -23,13 +23,13 @@ I am currently a Ph.D. candidate in John Hopcroft Center for Computer Science at
 
 # 📝 Publications 
 ## Conference
-- **Shaoxu Li**, Ye Pan, Instant Photorealistic Neural Radiance Fields Stylization, ICASSP 2024
-- **Shaoxu Li**, Ye Pan, Rendering and Reconstruction Based 3D Portrait Stylization, ICME 2023
-- **Shaoxu Li**, Feipeng Da, Rao Li, Novel Adaptive Fringe Projection Technique for High Dynamic Range 3D Shape Measurement, icOPEN 2017
+- **Shaoxu Li**, Ye Pan, Instant Photorealistic Neural Radiance Fields Stylization, ICASSP 2024 (CCF-B, EI)
+- **Shaoxu Li**, Ye Pan, Rendering and Reconstruction Based 3D Portrait Stylization, ICME 2023 (CCF-B, EI)
+- **Shaoxu Li**, Feipeng Da, Rao Li, Novel Adaptive Fringe Projection Technique for High Dynamic Range 3D Shape Measurement, icOPEN 2017 (EI)
   
 ## Journal
 - **Shaoxu Li**, Feipeng Da, Rao Li, Adaptive Fringe Projection Technique for High-dynamic Range Three-dimensional Shape
-Measurement using Binary Search, Optical Engineering 2017
+Measurement using Binary Search, Optical Engineering 2017 (JCR Q4)
 
 # 🎖 Honors and Awards
 - President Award for Fighting the Epidemic, Shanghai Jiao Tong University, 2023.
