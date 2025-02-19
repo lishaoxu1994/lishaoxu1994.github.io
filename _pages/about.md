@@ -23,7 +23,7 @@ I am currently a Ph.D. candidate in John Hopcroft Center for Computer Science at
 
 # 📝 Publications 
 ## Journal
-- **Shaoxu Li**, Ye Pan, AniArtAvatar: Animatable 3D Art Avatar from a Single Image, Neurocomputing, 2024 (CCF-C, JCR Q1)
+- **Shaoxu Li**, Ye Pan, AniArtAvatar: Animatable 3D Art Avatar from a Single Image, Neurocomputing, 2025 (CCF-C, JCR Q1)
 - Ye Pan, **Shaoxu Li**, Shuai Tan, Junjie Wei, GuangTao Zhai, Xiaokang Yang, Advances in Digital Characters Stylization, Multimodal Animation and Interaction, Journal of Image and Graphics, 2024 (CCF-B)
 - **Shaoxu Li**, Ye Pan, Interactive Geometry Editing of Neural Radiance Fields, Displays, 2024 (JCR Q1)
 - **Shaoxu Li**, Feipeng Da, Rao Li, Adaptive Fringe Projection Technique for High-dynamic Range Three-dimensional Shape
