@@ -50,4 +50,4 @@ Measurement using Binary Search, Optical Engineering, 2017 (JCR Q4)
 - *2018.07 - 2019.10*, Sales Engineer in Wireless & Core Network, Huawei Technologies Co., Ltd.
 - *2015.08 - 2018.04*, Master’s Degree in Control Engineering, School of Automation, Southeast University.
 - *2011.08 - 2015.06*, Bachelor’s Degree in Automation, School of Automation, Southeast University.
-- 
+
