@@ -45,7 +45,7 @@ Measurement using Binary Search, Optical Engineering, 2017 (JCR Q4)
  - 3rd Prize，Shanghai Youth Science and Technology Innovation Competition, 2023.
 
 # Services
-##Journal Reviewer for
+## Journal Reviewer for
 - International Journal of Human - Computer Studies (IJHCS)
 
 # 📖 Experiences
