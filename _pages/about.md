@@ -21,7 +21,7 @@ I am currently a Ph.D. candidate in John Hopcroft Center for Computer Science at
 
 
 
-# 📖 Publications 
+#  Publications 
 ## Journal
 - **Shaoxu Li**, Ye Pan, AniArtAvatar: Animatable 3D Art Avatar from a Single Image, Neurocomputing, 2025 (CCF-C, JCR Q1)
 - Ye Pan, **Shaoxu Li**, Shuai Tan, Junjie Wei, GuangTao Zhai, Xiaokang Yang, Advances in Digital Characters Stylization, Multimodal Animation and Interaction, Journal of Image and Graphics, 2024 (CCF-B)
@@ -34,7 +34,7 @@ Measurement using Binary Search, Optical Engineering, 2017 (JCR Q4)
 - **Shaoxu Li**, Ye Pan, Rendering and Reconstruction Based 3D Portrait Stylization, ICME 2023 (CCF-B, EI)
 - **Shaoxu Li**, Feipeng Da, Rao Li, Novel Adaptive Fringe Projection Technique for High Dynamic Range 3D Shape Measurement, icOPEN 2017 (EI)
   
-# 🎖 Honors and Awards
+#  Honors and Awards
 - President Award for Fighting the Epidemic, Shanghai Jiao Tong University, 2023.
 - 2nd Prize, Open Source Quest Challenge Track, The 5th China Software Open Source Innovation Competition, 2022.
 - Excellent Master Thesis, Southeast University, 2019.
@@ -44,11 +44,11 @@ Measurement using Binary Search, Optical Engineering, 2017 (JCR Q4)
 ## Advisor
  - 3rd Prize，Shanghai Youth Science and Technology Innovation Competition, 2023.
 
-# 📝 Services
+#  Services
 ## Journal Reviewer for
 - International Journal of Human - Computer Studies (IJHCS)
 
-# 📖 Experiences
+#  Experiences
 - *2021.03 - now*, PHD Candidate in Computer Science, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
 - *2019.12 - 2021.03*, Research Assistant, John Hopcroft Center for Computer Science, Shanghai Jiao Tong University.
 - *2018.07 - 2019.10*, Sales Engineer in Wireless & Core Network, Huawei Technologies Co., Ltd.
