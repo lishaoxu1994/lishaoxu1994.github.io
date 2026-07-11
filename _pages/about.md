@@ -31,6 +31,7 @@ I am currently a Ph.D. candidate in John Hopcroft Center for Computer Science at
 Measurement using Binary Search, Optical Engineering, 2017 (JCR Q4)
 
 ## Conference
+- **Shaoxu Li**, Shuai Tan, Ye Pan, Tuning-Free Continuous Visual Synthesis via Semantic-Aware Neural Flow, ACMMM 2026 (CCF A, EI)
 - **Shaoxu Li**, Ye Pan, An Efficient and Harmonized Framework for Balanced Cross-Domain Feature Integration, AAAI 2026 (CCF A, EI)
 - **Shaoxu Li**, Ye Pan, Instant Photorealistic Neural Radiance Fields Stylization, ICASSP 2024 (CCF B, EI)
 - **Shaoxu Li**, Ye Pan, Rendering and Reconstruction Based 3D Portrait Stylization, ICME 2023 (CCF B, EI)
